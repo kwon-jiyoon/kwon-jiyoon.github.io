@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Corona"
+title: "js 1주차 주요 개념 정리"
 date: 2020-04-22
 categories:
   - Jiyoon
