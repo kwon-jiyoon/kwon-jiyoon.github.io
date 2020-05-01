@@ -1,0 +1,25 @@
+---
+layout: post
+title: "어울림 2주차 JS 주요 개념 정리"
+date: 2020-04-29
+categories:
+  - Jiyoon
+description:
+image: https://picsum.photos/2000/1200?image=1003
+image-sm: https://picsum.photos/500/300?image=1003
+---
+#함수 & 객체 단원
+- function, object, object method, class, 고급주제로 구분
+
+#함수
+ function, parameter, callback function, local funcion, nameless function 등의 기본 개념
+ function return과 timer, senInterval 과 같은 자바에서는 없었던 새로운 기능
+ 
+#객체
+ 객체 사용, 객체 배열, 메소드, 상속 등의 기본 개념
+ object method(object assign, object entries, object keys, object freeze) 새로운 기능
+ 고급주제 property 
+ 
+ 
+ 
+ 
