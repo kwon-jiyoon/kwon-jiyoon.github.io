@@ -1,3 +1,14 @@
+---
+layout: post
+title: "Node.js 개념 정리"
+date: 2020-05-18
+categories:
+  - Jiyoon
+description:
+image: https://picsum.photos/2000/1200?image=1003
+image-sm: https://picsum.photos/500/300?image=1003
+---
+
 1. 노드 시작하기
 
 1.1 노드란
