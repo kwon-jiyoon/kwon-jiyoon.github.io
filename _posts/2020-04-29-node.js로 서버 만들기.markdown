@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "node.js로 서버 만들기 - 어울림 2"
+title: "node.js로 서버 만들기 - 어울림 2주차"
 date: 2020-04-29
 categories:
   - Jiyoon
@@ -8,8 +8,10 @@ description:
 image: https://picsum.photos/2000/1200?image=1003
 image-sm: https://picsum.photos/500/300?image=1003
 ---
- - node.js 설치와 사용법
-  
+<h3>node.js 설치와 사용법</h3>
+  <figure>
+  <img src="https://ncc-phinf.pstatic.net/20160427_195/1461718479869FPYT6_PNG/02.png?type=w646" alt="Placeholder"/>
+  </figure>
  
  - koa, koa-router 사용법
 
