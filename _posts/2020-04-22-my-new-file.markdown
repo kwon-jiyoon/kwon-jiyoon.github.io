@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "js 1주차 주요 개념 정리"
+title: "JS 공부하기 - 어울림 1주차"
 date: 2020-04-22
 categories:
   - Jiyoon
@@ -8,6 +8,7 @@ description:
 image: https://picsum.photos/2000/1200?image=1003
 image-sm: https://picsum.photos/500/300?image=1003
 ---
+
 #1주차
 
 한 번에 주석처리
