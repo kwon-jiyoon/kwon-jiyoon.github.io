@@ -10,7 +10,7 @@ image-sm: https://picsum.photos/500/300?image=1003
 ---
 <h3>vue.js 설치와 사용법</h3>
   <figure>
-  <img src="https://ncc-phinf.pstatic.net/20160427_195/1461718479869FPYT6_PNG/02.png?type=w646" alt="Placeholder"/>
+  <img src="https://ncc-phinf.pstatic.net/20160427_195/1461718479869FPYT6_PNG/02.png?type=w646" width="800" height="200" alt="Placeholder"/>
   </figure>
  
 <h3>CURD(create, update, read, delete)</h3>
